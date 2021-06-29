@@ -17,11 +17,11 @@ class Solution:
         
               
               
-   /*/////////////Output//////////////////
+   #/////////////Output//////////////////
               
-   Input: startTime = "12:01", finishTime = "12:44"
-Output: 1
+   #Input: startTime = "12:01", finishTime = "12:44"
+#Output: 1
 
-Input: startTime = "20:00", finishTime = "06:00"
-Output: 40
-*/
+#Input: startTime = "20:00", finishTime = "06:00"
+#Output: 40
+#*/
